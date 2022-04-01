@@ -140,7 +140,8 @@ Going bottom-up, this list shows resources to learn programming from a compariti
 Here, I list some of the YouTube channels I have used to learn and be updated on CSE contents (in no particular order).
 
 - [MIT OpenCourseware](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw) 
-- [ieeeComputerSociety](https://www.youtube.com/channel/UCSVKswAwikRd8ZS3AmSnuKg)
+- [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
+- [CodeHelp - by Babbar](https://www.youtube.com/c/CodeHelpbyBabbar)
 - [Free Code Camp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) 
 - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
@@ -148,17 +149,7 @@ Here, I list some of the YouTube channels I have used to learn and be updated on
 - [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw)
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 - [Quentin Watt Tutorials](https://www.youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w)
+- [ieeeComputerSociety](https://www.youtube.com/channel/UCSVKswAwikRd8ZS3AmSnuKg)
 
 ## Disclaimer 
 Please note that I am not promoting any website, channel, or software here. These are only the resources I have used / am still using for my curriculum / developer activities.
-
-
-
-
-
-
-
-
-
-
-
