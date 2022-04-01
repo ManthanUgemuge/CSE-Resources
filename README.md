@@ -142,6 +142,7 @@ Here, I list some of the YouTube channels I have used to learn and be updated on
 - [MIT OpenCourseware](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw) 
 - [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
 - [CodeHelp - by Babbar](https://www.youtube.com/c/CodeHelpbyBabbar)
+- [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial)
 - [Free Code Camp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) 
 - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
