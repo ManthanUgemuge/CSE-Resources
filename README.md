@@ -111,7 +111,7 @@ Going bottom-up, this list shows resources to learn programming from a compariti
 ### C++
 1. [C++ for Programmers](https://in.udacity.com/course/c-for-programmers--ud210) (Udacity) </a>
 2. [Programming Paradigms](https://see.stanford.edu/Course/CS107) (Stanford Engineering)</a>
-3. [Programming Abstractions (Accelerated)](http://web.stanford.edu/class/archive/cs/cs106x/cs106x.1182/lectures.shtml) (Stanfored Engineering) 
+3. [Programming Abstractions (Accelerated)](http://web.stanford.edu/class/archive/cs/cs106x/cs106x.1182/lectures.shtml) (Stanford Engineering) 
 4. [Tutorials Point](https://www.tutorialspoint.com/cplusplus/index.htm)
 
 ### Java
