@@ -1,4 +1,4 @@
-# CSE-resources
+# CSE Resources
 
 A collection of curated resources for learning Computer Science subjects and skills, that I garnered throughout my tenure as a CSE student. Contributions to this list, and reports of broken links or other errors, are welcome.
 
