@@ -135,6 +135,8 @@ Going bottom-up, this list shows resources to learn programming from a compariti
 1. [Data Science: R Basics](https://www.edx.org/course/data-science-r-basics) (HarvardX)
 2. [Data Visualization in R](https://www.edx.org/course/data-science-visualization-harvardx-ph125-2x) (HarvardX) 
 
+## Useful Websites
+Here, I list some of the Websites I have used to learn and be updated on CSE contents (in no particular order).
 
 ## Useful YouTube Channels
 Here, I list some of the YouTube channels I have used to learn and be updated on CSE contents (in no particular order).
