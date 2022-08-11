@@ -138,6 +138,11 @@ Going bottom-up, this list shows resources to learn programming from a compariti
 ## Useful Websites
 Here, I list some of the Websites I have used to learn and be updated on CSE contents (in no particular order).
 
+- [Coursera](https://www.coursera.org/)
+- [Udemy](https://www.udemy.com/home/my-courses/learning/)
+- [Sololearn](https://www.sololearn.com/profile/16354675)
+- [Prepinsta](https://prepinstaprime.com/)
+
 ## Useful YouTube Channels
 Here, I list some of the YouTube channels I have used to learn and be updated on CSE contents (in no particular order).
 
