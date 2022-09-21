@@ -129,7 +129,7 @@ Going bottom-up, this list shows resources to learn programming from a compariti
 ### Python
 1. [CS50X](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) (HarvardX) 
 2. [Intro to Computer Science](https://in.udacity.com/interview-skill-certification/intro-to-computer-science--cs101) (Udacity)
-3. [Introduction to Python for Data Science](https://www.edx.org/course/introduction-to-python-for-data-science) (edX | Microsoft)
+3. [Introduction to Python for Data Science](https://www.edx.org/course/introduction-to-python-for-data-science) (edX / Microsoft)
 
 ### R
 1. [Data Science: R Basics](https://www.edx.org/course/data-science-r-basics) (HarvardX)
